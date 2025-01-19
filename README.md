@@ -13,28 +13,7 @@ This project is designed to help businesses manage their products efficiently us
 - Search and filter products
 - User authentication and authorization
 
-## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-- A web browser (e.g., Chrome, Firefox)
-- Basic understanding of HTML, CSS, and JavaScript
-
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/97mohammed/N-project.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd N-project
-    ```
-
-3. Open the index.html file in your web browser:
-    ```bash
-    open index.html
-    ```
 
 ## Usage
 
@@ -46,8 +25,5 @@ Before you begin, ensure you have met the following requirements:
 
 
 
-git add README.md
-git commit -m "Add project information to README.md"
-git push origin main
 
 
